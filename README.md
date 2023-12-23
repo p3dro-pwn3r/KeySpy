@@ -6,8 +6,6 @@ KeySpy is a very very simple proof of concept python keylogger that captures key
 
 - Logs pressed keys and special key events
 - Sends logs to a Discord webhook
-- Hidden operation (console window is not visible)
-- Startup persistence (adds the keylogger to the startup registry)
 
 ## Requirements
 
